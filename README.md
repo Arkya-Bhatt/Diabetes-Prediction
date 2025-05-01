@@ -6,15 +6,15 @@ This project involves predicting the probability of patients having diabetes usi
 ## Characteristics
 ### Dataset
 The data set consists of medical records with the following characteristics:
-- **Gestations**
+- **Pregnancies**
 - **Glucose**
-- **Arterial Pressure**
-- **Epidermal Thickness**
+- **BloodPressure**
+- **SkinThickness**
 - **Insulin**
 - **BMI**
-- **Diabetes Pedigree Function**
+- **DiabetesPedigreeFunction**
 - **Age**
-- **Result** (Target Variable)
+- **Outcome** (Target Variable)
 
 ### Logistic Regression Model
 - **Binary classification** (Diabetic/Non-Diabetic).
