@@ -5,7 +5,7 @@ from eda import show_eda
 
 st.set_page_config(
     page_title="Diabetes Prediction App",
-    # layout="wide",
+    layout="wide",
     initial_sidebar_state="auto",
 )
 
